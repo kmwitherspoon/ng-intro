@@ -1,0 +1,70 @@
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://images.unsplash.com/photo-1440557958969-404dc361d86f?ixlib=rb-0.3.5&q=80&fm=jpg&s=40df6b399a290566cc6278e623e0a8ff") no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+  font-family: 'Shadows Into Light', cursive; }
+
+.home {
+  margin-top: 20%;
+  text-align: center; }
+  .home h1 {
+    font-size: 50px; }
+  .home button {
+    background: #f6b26b;
+    background: -webkit-linear-gradient(#f6b26b, #bf9000);
+    background: linear-gradient(#f6b26b, #bf9000);
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    padding: 8px 20px;
+    font: normal 700 12px/1 "Shadows Into Light", cursive;
+    text-align: center;
+    text-shadow: 1px 1px 0 #000; }
+
+.create {
+  text-align: center; }
+  .create h1 {
+    font-size: 50px; }
+  .create input {
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    font-family: 'Shadows Into Light', cursive;
+    color: black;
+    font-size: 20px; }
+  .create button {
+    background: #f6b26b;
+    background: -webkit-linear-gradient(#f6b26b, #bf9000);
+    background: linear-gradient(#f6b26b, #bf9000);
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    padding: 8px 20px;
+    font: normal 700 20px/1 "Shadows Into Light", cursive;
+    text-align: center;
+    text-shadow: 1px 1px 0 #000; }
+  .create .buttontwo {
+    background: #f6b26b;
+    background: -webkit-linear-gradient(#f6b26b, #bf9000);
+    background: linear-gradient(#f6b26b, #bf9000);
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    padding: 8px 20px;
+    font: normal 700 26px/1 "Shadows Into Light", cursive;
+    text-align: center;
+    text-shadow: 1px 1px 0 #000; }
+
+.list {
+  text-align: center; }
+  .list h1 {
+    font-size: 50px; }
+  .list h3 {
+    font-size: 28px; }
+  .list img {
+    width: 500px; }
+  .list p {
+    font-size: 22px; }
+  .list hr {
+    color: white;
+    width: 600px; }
